@@ -12,6 +12,10 @@ nMIICXAIBAAKBgQDBJ4jUvMW8tOq+FDeGNBWZtlBvZlJ7waaBdc20JDU7P7L6Ereq\ncCF29a+kNy9PZ
 nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDBJ4jUvMW8tOq+FDeGNBWZtlBv\nZlJ7waaBdc20JDU7P7L6EreqcCF29a+kNy9PZiSZIMJ6EOIlcjCTum66PHEQXs61\nOuQ7a0YqYyo+/npXZTWWhzaycev0mzv9dAMYmWkYC9BHsVigVKFMPPjxKFw4W2zV\n3RSc0KQcwEilgAfz9QIDAQAB\n-----END PUBLIC KEY-----'
 Delt med Anton
 
+
+
 Opg 3:
 Krypteret besked sendt til Anton:
 
+Han modtog beskeden brun sovs og kartofler, som blev krypteret på samme måde som i python
+Han dekrypterede og fik samme besked, hvilket blev gjort som i python koden.
